@@ -14,3 +14,4 @@ echo $cube(1), PHP_EOL;
 echo $cube(2), PHP_EOL;
 echo $cube(3), PHP_EOL;
 echo $cube(4), PHP_EOL;
+
