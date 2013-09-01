@@ -15,4 +15,3 @@ echo $cube(2), PHP_EOL;
 echo $cube(3), PHP_EOL;
 echo $cube(4), PHP_EOL;
 
-var_dump($cube);
